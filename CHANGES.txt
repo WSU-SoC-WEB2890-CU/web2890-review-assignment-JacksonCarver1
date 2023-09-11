@@ -1,1 +1,27 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+List of changes I have made to make the portfolio fit me better:
+
+1. Changed the Logo to better represent my creative side of web designing and programming.
+
+2. Changed the main picture in the Jumbotron because I felt like the illustration looked very similar to me doing my work.
+(kept the little click to play animation because if I had more time I would likely make it an animated short describing me and my work.)
+
+3. I made the Testimonials section a reviews section because I would think it is more relevent to show what people think about me and my work.
+
+4. Made the FAQ section common questions that people would ask me about me, I actually do get these quesitons a lot when I'm off walking around the Weber State Campus!
+
+5. In the Latest work section, I added a bunch of those pictures that I thought would best describe what I would be doing after I finish my bachelors degree. I wanted to make sure one of them was
+an iPad because I use mine literally every single day.
+
+6. I tweaked the Getting started section into being more of a commission form for if someone wanted to start a project/hire me. I think it really relates to what I would be doing as a job 
+in the future.
+
+7. In the Resume section, I wanted to include some of my experience and my education that I went though to show I am qualified to do the projects that customers would want. Education is 
+definitely an important aspect to add to a portfolio page.
+
+8. Also in the Resume Section, I wanted to include my skills and most of the programming languages that I have learned along the way. When it comes to programming, it is defintiely important to use specific 
+programming languages for the job. (i.e. html for websites, java for games, etc.)
+
+9. I decided to make the Projects section more descriptive about me and what I enjoy doing, the illustrations I picked really fit in nicely with my overall style of this website!
+
+10. Finally, I changed the colors to be more a cool or soothing purple to blue gradient. I felt like that made the page more easy on the eyes while also sticking with the purple throughout the rest of the 
+page. I also made the waves a little bit more wavy (I know right, so original), but it kinda adds to the blue-watery vibe. Which also adds to the fact that I like to draw and paint a lot on my iPad.
